@@ -19,4 +19,3 @@ Everyone can start a fundraising campaign and others can donate.
 
 ------
 
-`More info, demo app & code will be added soon`
